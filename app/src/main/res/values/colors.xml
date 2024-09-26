@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorPrimary">#00157E</color>
+    <color name="colorPrimaryDark">#000A56</color>
+    <color name="colorAccent">#FFC107</color> <!-- Usei um amarelo como cor de destaque, pode ser ajustado conforme o design -->
+    <color name="colorPrimaryLight">#3341B8</color> <!-- Uma versão mais clara do azul primário -->
+    <color name="colorOnPrimary">#FFFFFF</color> <!-- Texto branco para contraste na cor primária -->
+    <color name="colorSecondary">#03DAC6</color> <!-- Cor secundária, opcional -->
+    <color name="colorOnSecondary">#000000</color> <!-- Texto preto para contraste na cor secundária -->
+</resources>
